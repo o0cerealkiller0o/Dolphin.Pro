@@ -1,0 +1,9 @@
+# exclude everything except directory foo/bar
+/*
+/**/*
+!.gitignore
+!/modules/boonex/french/
+!/modules/boonex/french/*
+!/modules/boonex/spanish/
+!/modules/boonex/spanish/*
+!/modules/boonex/*/install/langs/*
